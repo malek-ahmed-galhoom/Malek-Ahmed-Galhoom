@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=61DAFB&center=true&vCenter=true&width=450&lines=Hi,+I'm+Mohamed!;Junior+Front-End+Engineer;Let's+Code+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=61DAFB&center=true&vCenter=true&width=450&lines=Hi,+I'm+Malek!;Junior+Front-End+Engineer;Let's+Code+Together!" alt="Typing SVG" />
 </p>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
